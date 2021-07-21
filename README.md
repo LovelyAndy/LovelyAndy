@@ -15,6 +15,10 @@ Now that my first app has been released, I'm finally ready to tell the story of 
 📦  [My Dad's Stuff](https://github.com/LovelyAndy/MyDadsStuff) - My main motivation for becoming a developer. My dad is an avid vintage toy and vinyl record collector. The older he gets and the more his collection grows, the harder it is to get everything properly sorted. The app in it's current state is not nearly comprehensive/granular enough for the task, but I am constantly learning new things and implimenting changes as I get better at development. 
 Version 1 released in early July on both iOS and Android and I will be continuing to update and add new features to this app until the end of time.
 
+Available now on the App Store! (Google Play Store still in review 😅)
+
+<a href="https://apps.apple.com/us/app/my-dads-stuff/id1575920671#?platform=iphone"><img height="30" src="https://user-images.githubusercontent.com/68723584/126503654-da555f66-a81f-4e13-955c-a43ff5ac9ce4.png"></a>
+
 🤠  [AndyKarwoski.com](https://andykarwoski.com/) - I am constantly working on and trying out new designs for my personal website//portfolio.
 
 ## Languages and Tools

@@ -17,7 +17,8 @@ Version 1 released in early July on both iOS and Android and I will be continuin
 
 Available now on the App Store! (Google Play Store still in review 😅)
 
-<a href="https://apps.apple.com/us/app/my-dads-stuff/id1575920671#?platform=iphone"><img height="30" src="https://user-images.githubusercontent.com/68723584/126503654-da555f66-a81f-4e13-955c-a43ff5ac9ce4.png"></a>
+<a href="https://apps.apple.com/us/app/my-dads-stuff/id1575920671#?platform=iphone"><img height="30" src="https://user-images.githubusercontent.com/68723584/126643275-d939e92f-c075-4ca3-8008-f906f1e5c470.png"></a>
+<a href="https://play.google.com/store/apps/details?id=com.andykarwoski.mydadsstuff"><img height="30" src="https://user-images.githubusercontent.com/68723584/126642995-634c4e76-e8ff-4d9a-b426-0dc683dd3d89.png"></a>
 
 🤠  [AndyKarwoski.com](https://andykarwoski.com/) - I am constantly working on and trying out new designs for my personal website//portfolio.
 

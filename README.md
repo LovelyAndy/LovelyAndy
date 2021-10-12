@@ -44,7 +44,7 @@ Available now on the App Store! (Google Play Store still in review 😅)
 
 ## Interests
 
-- Film (60s Japanese Cinema is the hill I will die on)
+- Film (60s Japanese Cinema is the pinnacle and the hill I will die on)
 - Music (Postrock and Shoegaze)
 - Fitness (Jump rope 30 minutes a day) 
 - NBA (GO BUCKS!)<img height="40" src="https://user-images.githubusercontent.com/68723584/126189427-e3dd5c47-6740-4795-8479-013cb7660f8d.png">

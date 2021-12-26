@@ -2,13 +2,15 @@
 
 ![github-banner](https://user-images.githubusercontent.com/68723584/126181073-dc0d5bbb-7eca-49f6-8c69-67df559699ea.png)
 
+## Current work
+
+Current lead frontend developer for the Industrial AI team at Foxconn in Wisconsin. Responsible for app creation and management of 3 team members. My other duties include creation of a verbose, yet easy to understand user interface that deals with large amounts of user/product information, E2E testing, code reviews, mentoring and app design.  
+
 ## My Journey
 
 I'm a self-taught Frontend Developer who spent the better part of the last decade in Tokyo. Previously the Marketing and Brand Manager for [TokyoMTG](https://tokyomtg.com/), a Magic: The Gathering specialty shop in the heart of Tokyo. It was there while redesigning our company's website and logo that I started to realize how closely my marketing and branding experience meshed with web development, sparking a profound interest in frontend web development and design; the rest is history.
 I came back during the pandemic to finally be close to family and take on learning web development fulltime; hyper-motivated come out of this globally brutal last year smarter and stronger. 
-Currently I am frontend developer on the Japanese casting app **Colorful Casting**（カラフルキャスティング） where my roll is to work on creating modular components, animations, E2E testing and translations. [Colorful Casting (JP only)](https://casting.love/)
-
-Now that my first app has been released, I'm finally ready to tell the story of my headfirst plunge into the frontend of web development. You can read all about it on my [Medium Page](https://medium.com/@LovelyAndy). 
+My first dev role was as a frontend developer on the Japanese casting app **Colorful Casting**（カラフルキャスティング） where my roll is to work on creating modular components, animations, E2E testing and translations. [Colorful Casting (JP only)](https://casting.love/)
 
 ## Current Projects
 

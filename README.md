@@ -4,8 +4,7 @@
 
 ## Current work
 
-Current lead frontend developer for the Industrial AI team at Foxconn in Wisconsin. Responsible for app creation and management of 3 team members. My other duties include creation of a verbose, yet easy to understand user interface that deals with large amounts of user/product data, E2E testing, code reviews, mentoring and app design.  
-
+Current frontend developer for the Japanese app ColorfulCasting in Tokyo, Japan.
 ## My Journey
 
 I'm a self-taught Frontend Developer who spent the better part of the last decade in Tokyo. Previously the Marketing and Brand Manager for [TokyoMTG](https://tokyomtg.com/), a Magic: The Gathering specialty shop in the heart of Tokyo. It was there while redesigning our company's website and logo that I started to realize how closely my marketing and branding experience meshed with web development, sparking a profound interest in frontend web development and design; the rest is history.

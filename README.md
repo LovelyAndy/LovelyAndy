@@ -5,6 +5,7 @@
 ## Current work
 
 Recently return stateside and taking some time to remake my first ever application [My Dad's Stuff](https://github.com/LovelyAndy/MyDadsStuff). 
+
 ## My Journey
 
 I'm a self-taught Frontend Developer who spent the better part of the last decade in Tokyo. Previously the Marketing and Brand Manager for [TokyoMTG](https://tokyomtg.com/), a Magic: The Gathering specialty shop in the heart of Tokyo. It was there while redesigning our company's website and logo that I started to realize how closely my marketing and branding experience meshed with web development, sparking a profound interest in frontend web development and design; the rest is history.
@@ -13,9 +14,11 @@ My first dev role was as a frontend developer on the Japanese casting app **Colo
 
 Followed a half a year later (2021) was my first in-house dev role with Foxconn Industrial AI team in Milwaukee, Wisconsin. Despite it being my first role, I led a team of three frontend devs working on several proprietary apps (mainly dashboards and live views of production lines) in-house as well as maintaining Foxconn's Industrial AI teams homepage.
 
-From there I took a chance back in Tokyo to work at ColorfulCasting, a casting application that bridges the gap between businesses and talent. The app focuses on allowing businesses to make job listings and users to apply to those jobs; amongst several other features, all of which give your average Joe their chance to get their foot in the door in the entertainment industry.
+From there I took a chance back in Tokyo to work at **ColorfulCasting** again with some more skills under my belt. There I was one of a team of five developers, all of which lived outside of Japan besides myself. On top of your general frontend tasks, I also took on the role of technical project manager out of necessity with fully remote, non-Japanese-speaking, developer team besides myself. With previous experience with Agile/Scrum development, I implemented a Scrum + Kanban system for our team to improve our processes using a combination of Notion and Github Projects.
 
 This August I returned to Milwaukee, WI to be closer to family and build a life here back in the states.
+
+Japanese development practices are quite behind the curve and I've been spending time leveling up with more modern practices and adding in some AI assisted development into my workflow as well (Codex and Claude are my standouts at the moment). Exciting times in the Frontend landscape!
 
 Currently on the search for new exciting opportunities in the frontend space!
 
@@ -40,6 +43,8 @@ The original is still available now on the App Store! (Google Play Store is curr
 <code><img height="30" src="https://user-images.githubusercontent.com/68723584/126188112-8741af87-0e30-404e-84a1-e6b1a12a721a.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img src="https://cdn.simpleicons.org/react/61DAFB" height="30" /></code>
+<code><img height="30" src="https://cdn.simpleicons.org/astro/FF5D01"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/68723584/126188258-4803fa05-5f68-427b-b4e7-042ae7ff1874.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/68723584/126187385-57ce4c79-2ff3-4842-b5a6-f43073f30fc2.png"></code>
@@ -59,8 +64,3 @@ The original is still available now on the App Store! (Google Play Store is curr
 - Music 
 - Running (Marathon PB: 3:38)
 - NBA (GO BUCKS!)<img height="40" src="https://user-images.githubusercontent.com/68723584/126189427-e3dd5c47-6740-4795-8479-013cb7660f8d.png">
-
-## Where you can find me
-
-- [Personal Website](https://andykarwoski.com/)
-- [LinkedIn](https://www.linkedin.com/in/andykarwoski/)

@@ -4,25 +4,33 @@
 
 ## Current work
 
-Current frontend developer for the Japanese app ColorfulCasting in Tokyo, Japan.
+Recently return stateside and taking some time to remake my first ever application [My Dad's Stuff](https://github.com/LovelyAndy/MyDadsStuff). 
 ## My Journey
 
 I'm a self-taught Frontend Developer who spent the better part of the last decade in Tokyo. Previously the Marketing and Brand Manager for [TokyoMTG](https://tokyomtg.com/), a Magic: The Gathering specialty shop in the heart of Tokyo. It was there while redesigning our company's website and logo that I started to realize how closely my marketing and branding experience meshed with web development, sparking a profound interest in frontend web development and design; the rest is history.
 I came back during the pandemic to finally be close to family and take on learning web development fulltime; hyper-motivated come out of this globally brutal last year smarter and stronger. 
 My first dev role was as a frontend developer on the Japanese casting app **Colorful Casting**（カラフルキャスティング） where my roll is to work on creating modular components, animations, E2E testing and translations. [Colorful Casting (JP only)](https://about.colorfulcast.com/)
-Followed a half a year later was my first in-house dev role with Foxconn Industrial AI team. 
+
+Followed a half a year later (2021) was my first in-house dev role with Foxconn Industrial AI team in Milwaukee, Wisconsin. Despite it being my first role, I led a team of three frontend devs working on several proprietary apps (mainly dashboards and live views of production lines) in-house as well as maintaining Foxconn's Industrial AI teams homepage.
+
+From there I took a chance back in Tokyo to work at ColorfulCasting, a casting application that bridges the gap between businesses and talent. The app focuses on allowing businesses to make job listings and users to apply to those jobs; amongst several other features, all of which give your average Joe their chance to get their foot in the door in the entertainment industry.
+
+This August I returned to Milwaukee, WI to be closer to family and build a life here back in the states.
+
+Currently on the search for new exciting opportunities in the frontend space!
 
 ## Current Projects
 
-📦  [My Dad's Stuff](https://github.com/LovelyAndy/MyDadsStuff) - My main motivation for becoming a developer. My dad is an avid vintage toy and vinyl record collector. The older he gets and the more his collection grows, the harder it is to get everything properly sorted. The app in it's current state is not nearly comprehensive/granular enough for the task, but I am constantly learning new things and implimenting changes as I get better at development. 
-Version 1 released in early July on both iOS and Android and I will be continuing to update and add new features to this app until the end of time.
+📦  Rewriting my first solo app, [My Dad's Stuff](https://github.com/LovelyAndy/MyDadsStuff) - My main motivation for becoming a developer. My dad is an avid vintage toy and vinyl record collector. The older he gets and the more his collection grows, the harder it is to get everything properly sorted.
 
-Available now on the App Store! (Google Play Store still in review 😅)
+I'm now currently rewriting the entire app from the ground up in Vue3 and Typescript with the goal of improving all aspects of the previous version; including more understandable UI and bettering the user experience. 
+
+The original is still available now on the App Store! (Google Play Store is currently down)
 
 <a href="https://apps.apple.com/us/app/my-dads-stuff/id1575920671#?platform=iphone"><img height="30" src="https://user-images.githubusercontent.com/68723584/126643275-d939e92f-c075-4ca3-8008-f906f1e5c470.png"></a>
 <a href="https://play.google.com/store/apps/details?id=com.andykarwoski.mydadsstuff"><img height="30" src="https://user-images.githubusercontent.com/68723584/126642995-634c4e76-e8ff-4d9a-b426-0dc683dd3d89.png"></a>
 
-🤠  [AndyKarwoski.com](https://andykarwoski.com/) - I am constantly working on and trying out new designs for my personal website//portfolio.
+🤠  [AndyKarwoski.com](https://andykarwoski.com/) - Also rewriting my personal website, this time in Astro.
 
 ## Languages and Tools
 
@@ -47,14 +55,12 @@ Available now on the App Store! (Google Play Store still in review 😅)
 
 ## Interests
 
-- Film (60s Japanese Cinema is the pinnacle and the hill I will die on)
-- Music (Postrock and Shoegaze)
-- Fitness (Jump rope 30 minutes a day) 
+- Film (60s Japanese Cinema is the pinnacle and that's a hill I will die on)
+- Music 
+- Running (Marathon PB: 3:38)
 - NBA (GO BUCKS!)<img height="40" src="https://user-images.githubusercontent.com/68723584/126189427-e3dd5c47-6740-4795-8479-013cb7660f8d.png">
 
 ## Where you can find me
 
-- [Portfolio](https://andykarwoski.com/)
+- [Personal Website](https://andykarwoski.com/)
 - [LinkedIn](https://www.linkedin.com/in/andykarwoski/)
-- [Medium](https://medium.com/@LovelyAndy)
-- [Dribbble](https://dribbble.com/LovelyAndy)

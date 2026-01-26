@@ -1,6 +1,6 @@
 ### Howdy, I'm Andy 🤙🏻
 
-![github-banner](https://user-images.githubusercontent.com/68723584/126181073-dc0d5bbb-7eca-49f6-8c69-67df559699ea.png)
+![github-banner](https://github.com/user-attachments/assets/cc29d711-c4b6-4a99-bef8-6f620a3d4f81)
 
 ## Current work
 
